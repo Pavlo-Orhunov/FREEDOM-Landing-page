@@ -512,13 +512,13 @@ body {
 .social {
 }
 .social__item {
-}
-.social__link {
   transition: all 0.3s ease 0s;
 }
-.social__link:hover {
+.social__item:hover {
   opacity: 0.3;
 }
-.social__link:active {
+.social__item:active {
   transform: scale(0.85);
+}
+.social__link {
 }
