@@ -380,6 +380,7 @@ body {
 }
 .leader__content {
   flex: 0 1 50%;
+  padding-right: 20px;
 }
 .leader__label {
 }
